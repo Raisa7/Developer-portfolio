@@ -13,6 +13,7 @@ p{
 }
 section{
     display: flex;
+    margin-bottom: 70px;
 }
 .same{
     width: 90%;
@@ -35,4 +36,18 @@ a{
 }
 .banner{
     background-image: url(images/top-banner.png);
+}
+.so{
+    width: 50%;
+    padding-left: 40%;
+}
+.bo{
+    text-decoration: none;
+    background-color: rgb(3, 3, 218);
+    border-radius: 2%;
+    color: black;
+    padding: 1% 1%;
+    padding-right: 3%;
+    margin-right: 10%;
+    margin-left: 40%;
 }
