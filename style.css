@@ -1,0 +1,38 @@
+
+h1{ 
+    font-size: 60px;
+}
+.new{
+    color: blue;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+section{
+    display: flex;
+}
+.same{
+    width: 90%;
+    padding-left: 5%;
+}
+.same img{
+    width: 50%;
+}
+a{
+    padding-left: 7%;
+}
+.bold{
+    text-decoration: none;
+    background-color: rgb(13, 13, 218);
+    border-radius: 2%;
+    color: black;
+    padding: 1% 1%;
+    margin-left: 5%;
+
+}
+.banner{
+    background-image: url(images/top-banner.png);
+}
